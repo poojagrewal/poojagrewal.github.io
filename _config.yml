@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "/kanak-sudo"
 title_separator          : "-"
 name                     : &name "Kanak"
-description              : &description "PhD student at the Division of Mathematical and Physical Sciences"
+description              : &description "PhD student at the Division of Mathematical and Physical Sciences, Ahmedabad University"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/kanak-sudo"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Kanak D"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at the Division of Mathematical and Physical Sciences"
-  location         : "Ahmedabad, Gujarat"
-  employer         : "Ahmedabad University"
-  uri              : # URL
+  bio              : "PhD student at the Division of Mathematical and Physical Sciences, Ahmedabad University"
+  location         : "Mumbai, Maharashtra"
+  #employer         : "Ahmedabad University"
+  #uri              : # URL
   email            : "kanak.d@ahduni.edu.in" 
 
   # Academic websites
