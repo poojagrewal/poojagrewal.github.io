@@ -12,7 +12,7 @@ title                    : "/kanak-sudo"
 title_separator          : "-"
 name                     : &name "Kanak"
 description              : &description "PhD student at the Division of Mathematical and Physical Sciences, Ahmedabad University"
-url                      : https://kanak-sudo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "https://kanak-sudo.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/kanak-sudo"
 
