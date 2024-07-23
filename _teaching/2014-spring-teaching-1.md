@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Winter '23"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Teaching Assistant"
+permalink: /teaching/2023-winter-teaching
+venue: "Ahmedabad University"
+date: Jan 2024-Apr 2024
 ---
+For the Winter '23 semester, I assisted [Prof. Kaushik Jana](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/kaushik-jana/), and [Prof. Susanta Tewari](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/susanta-tewari/) with their courses, Mathematical Statistics (STA202), and Computer Networks (CSE330).
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
