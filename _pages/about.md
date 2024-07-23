@@ -15,7 +15,7 @@ My name is Kanak, and I am a second-year PhD student at the Division of Mathemat
 * Aug 2020 - Apr 2022: **Masters in Mathematics**, [Institute of Chemical Technology (formerly UDCT)](https://en.wikipedia.org/wiki/Institute_of_Chemical_Technology), Mumbai.
 * Aug 2017 - Apr 2020: **Bachelors in Mathematics**, [Mumbai University](https://en.wikipedia.org/wiki/University_of_Mumbai), Mumbai.
 
-In addition to the standard mathematical texts required for my PhD, I have recently also started enjoying literature around the themes of absurdism and existentialism. *The Myth of Sisyphus* (Albert Camus), *The Metamorphosis* (Franz Kafka), *The Idiot* (Fyodor Dostoevsky), and *Bell Jar* (Sylvia Plath), are amongst my favourite books I've read in the genre so far.
+In addition to the standard mathematical texts I am "required" to read for my PhD, I also enjoy reading literature around the themes of absurdism and existentialism. *The Myth of Sisyphus* (Albert Camus), *The Metamorphosis* (Franz Kafka), *The Idiot* (Fyodor Dostoevsky), and *Bell Jar* (Sylvia Plath), are amongst my favourite books I've read in the genre so far.
 
 
 
