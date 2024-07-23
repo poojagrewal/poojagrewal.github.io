@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Monsoon '24"
 collection: teaching
-type: "Workshop"
+type: "Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Ahmedabad University"
+date: Aug 2024-Present (Ongoing)
 ---
+For the Monsoon '24 semester, I am assisting Prof. Manjil Saikia, and Prof. Alok Shukla with their courses, Combinatorial Enumeration (MAT315/515), and Introductions to Data Structures and Algorithms (CSC210). Course notes for MAT315/515 can be found [here](https://drive.google.com/drive/folders/1-tCKWRSDAnt2vpGPCBCguElygVmZyMso?usp=sharing) and are updated weekly.
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
