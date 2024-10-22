@@ -54,7 +54,8 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 32. **Verónica (2017)** dir. by Paco Plaza
 33. **Perfect Days (2023)** dir. by Wim Wenders
 34. **Eternal Sunshine of the Spotless Mind (2004)** dir. by Michel Gondry *
-35. **Little Miss Sunshine (2006)** dir. Johnathan Dayton and Valerie Faris
+35. **Little Miss Sunshine (2006)** dir. by Johnathan Dayton and Valerie Faris
+36. **The Menu (2022)** dir. by Mark Mylod
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
