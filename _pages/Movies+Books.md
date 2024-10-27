@@ -56,6 +56,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 34. **Eternal Sunshine of the Spotless Mind (2004)** dir. by Michel Gondry *
 35. **Little Miss Sunshine (2006)** dir. by Johnathan Dayton and Valerie Faris
 36. **The Menu (2022)** dir. by Mark Mylod
+37. **The Truman Show (1998)** dir. by Peter Weir *
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
@@ -70,6 +71,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 10. **The Boys** dir. by Eric Kripke, Evan Goldberg, Seth Rogen
 11. **Panchayat** dir. by Chandan Kumar, Deepak Kumar Mishra
 12. **While We Watched** dir. by Vinay Shukla
+13. **Old Enough! (1991)** dir. by Junji Ōuchi
 
 ### Anime/Animation/Other:
 1.  **Grave of the Fireflies (1988)** dir. by Isao Takahata *
