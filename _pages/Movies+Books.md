@@ -19,6 +19,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 12. **What is Philosophy? A Marxist Introduction To Philosophy (_)** by Howard Selsam
 13. **The Principles of Communism (_)** by Friedrich Engels
 14. **Days at the Morisaki Bookshop (2009)** by Satoshi Yagisawa
+15. **Walking with the Comrades (2011)** by Arundhati Roy
 
 ### Movies:
 1.  **Awakenings (1990)** dir. by Penny Marshall *
@@ -56,7 +57,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 34. **Eternal Sunshine of the Spotless Mind (2004)** dir. by Michel Gondry *
 35. **Little Miss Sunshine (2006)** dir. by Johnathan Dayton and Valerie Faris
 36. **The Menu (2022)** dir. by Mark Mylod
-37. **The Truman Show (1998)** dir. by Peter Weir *
+37. **The Others (2001)** dir. by Alejandro Amenábar 
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
@@ -72,6 +73,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 11. **Panchayat** dir. by Chandan Kumar, Deepak Kumar Mishra
 12. **While We Watched** dir. by Vinay Shukla
 13. **Old Enough! (1991)** dir. by Junji Ōuchi
+14. **Maniac (2018)** dir. by Patrick Somerville
 
 ### Anime/Animation/Other:
 1.  **Grave of the Fireflies (1988)** dir. by Isao Takahata *
