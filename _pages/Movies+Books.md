@@ -20,6 +20,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 13. **The Principles of Communism (_)** by Friedrich Engels
 14. **Days at the Morisaki Bookshop (2009)** by Satoshi Yagisawa
 15. **Walking with the Comrades (2011)** by Arundhati Roy
+16. **Caste, Occupation and Politics on the Ganges: Passages of Resistance (2017)** by Assa Doron
 
 ### Movies:
 1.  **Awakenings (1990)** dir. by Penny Marshall *
