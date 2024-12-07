@@ -58,7 +58,9 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 34. **Eternal Sunshine of the Spotless Mind (2004)** dir. by Michel Gondry *
 35. **Little Miss Sunshine (2006)** dir. by Johnathan Dayton and Valerie Faris
 36. **The Menu (2022)** dir. by Mark Mylod
-37. **The Others (2001)** dir. by Alejandro Amenábar 
+37. **The Others (2001)** dir. by Alejandro Amenábar
+38. **How the Grinch Stole Christmas (2000)** dir. by Ron Howard
+39. **Silver Linings Playbook (2012)** dir. by David Russell
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
