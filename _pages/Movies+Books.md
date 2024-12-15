@@ -21,22 +21,19 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 14. **Days at the Morisaki Bookshop (2009)** by Satoshi Yagisawa
 15. **Walking with the Comrades (2011)** by Arundhati Roy
 16. **Caste, Occupation and Politics on the Ganges: Passages of Resistance (2017)** by Assa Doron
+17. **The Trial (1925)** by Franz Kafka
 
 ### Movies:
 1.  **Awakenings (1990)** dir. by Penny Marshall *
 2.  **The Intern (2015)** dir. by Nancy Meyers
-3.  **Talaash (2012)** dir. by Reema Kagti
 4.  **The Boy Who Harnessed the Wind (2019)** dir. by Chiwetel Ejiofor
 5.  **Maharaja (2024)** dir. by Nithilan Saminathan
 6.  **The Green Mile (1999)** dir. by Frank Darabont
 7.  **Seven (1995)** dir. by David Fincher *
 8.  **Laapataa Ladies (2023)** dir. by Kiran Rao
 9.  **Goyo (2024)** dir. by Marcos Carnevale
-10. **Schindler's List (1993)** dir. by Steven Spielberg *
-11. **Tamasha (2015)** dir. by Imtiaz Ali
-12. **Haider (2014)** dir. by Vishal Bhardwaj
+10. **Schindler's List (1993)** dir. by Steven Spielberg
 13. **The Dictator (2012)** dir. by Larry Charles
-14. **Bulbul (2020)** dir. by Anvita Dutt
 15. **Delhi Belly (2011)** dir. by Abhinay Deo
 16. **Beautiful Boy (2018)** dir. by Felix Van Groeningen
 17. **mother! (2017)** dir. by Darren Aronofsky
@@ -61,6 +58,8 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 37. **The Others (2001)** dir. by Alejandro Amenábar
 38. **How the Grinch Stole Christmas (2000)** dir. by Ron Howard
 39. **Silver Linings Playbook (2012)** dir. by David Russell
+40. **Klaus (2019)** dir. by Sergio Pablos
+41. **The Children's Train (2024)** dir. by Cristina Comencini
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
