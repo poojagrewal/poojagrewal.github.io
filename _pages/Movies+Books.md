@@ -60,6 +60,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 39. **Silver Linings Playbook (2012)** dir. by David Russell
 40. **Klaus (2019)** dir. by Sergio Pablos
 41. **The Children's Train (2024)** dir. by Cristina Comencini
+42. **Atonement (2007)** dir. by Joe Wright
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
