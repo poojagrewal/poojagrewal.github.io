@@ -65,6 +65,8 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 40. **Klaus (2019)** dir. by Sergio Pablos
 41. **The Children's Train (2024)** dir. by Cristina Comencini
 42. **Atonement (2007)** dir. by Joe Wright
+43. **Poor Things (2023)** dir. by Yorgos Lanthimos
+44. **Anatomy of a Fall (2023)** dir. by Justine Triet
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
