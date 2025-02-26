@@ -83,6 +83,8 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 12. **While We Watched** dir. by Vinay Shukla
 13. **Old Enough! (1991)** dir. by Junji Ōuchi
 14. **Maniac (2018)** dir. by Patrick Somerville
+15. **Beef (2023)** dir. by Lee Sung Jin
+16. **The Hunt for Veerappan (2023)** dir. by Selvamani Selvaraj
 
 ### Anime/Animation/Other:
 1.  **Grave of the Fireflies (1988)** dir. by Isao Takahata *
@@ -90,3 +92,4 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 3.  **Naruto Shippuden (2007-2017)** dir. by Hayato Date
 4.  **Rick and Morty (2013-ongoing)** creators Justin Roiland, Dan Harmon *
 5.  **Inside Out (2015)** dir. by Pete Docter, Ronnie del Carmen
+6.  **Sakamoto Days (2025)** dir. by Yuto Suzuki
