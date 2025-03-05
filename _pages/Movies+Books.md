@@ -67,6 +67,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 42. **Atonement (2007)** dir. by Joe Wright
 43. **Poor Things (2023)** dir. by Yorgos Lanthimos
 44. **Anatomy of a Fall (2023)** dir. by Justine Triet
+45. **A Complete Unknown (2025)** dir. by James Mangold
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
