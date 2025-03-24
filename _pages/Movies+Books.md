@@ -68,6 +68,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 43. **Poor Things (2023)** dir. by Yorgos Lanthimos
 44. **Anatomy of a Fall (2023)** dir. by Justine Triet
 45. **A Complete Unknown (2025)** dir. by James Mangold
+46. **The Mehta Boys (2025)** dir. by Boman Irani
 
 ### Series/Documentaries:
 1.  **Eva Lasting (2023)** dir. by Dago García *
@@ -86,6 +87,7 @@ The plan here is to keep track of the books I've enjoyed reading and the movies/
 14. **Maniac (2018)** dir. by Patrick Somerville
 15. **Beef (2023)** dir. by Lee Sung Jin
 16. **The Hunt for Veerappan (2023)** dir. by Selvamani Selvaraj
+17. **Adolescence (2025)** dir. by Jack Thorne, Stephen Graham
 
 ### Anime/Animation/Other:
 1.  **Grave of the Fireflies (1988)** dir. by Isao Takahata *
