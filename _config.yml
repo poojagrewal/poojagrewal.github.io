@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "/kanak-sudo"
+title                    : "/poojagrewal"
 title_separator          : "-"
-name                     : &name "Kanak"
-description              : &description "PhD student at the Division of Mathematical and Physical Sciences, Ahmedabad University"
-url                      : https://kanak-sudo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Pooja Grewal"
+description              : &description "Third Year PhD student at the Division of Mathematical and Physical Sciences, Ahmedabad University"
+url                      : https://poojagrewal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kanak-sudo/kanak-sudo.github.io"
+repository               : "poojagrewal/poojagrewal.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,17 +22,17 @@ repository               : "kanak-sudo/kanak-sudo.github.io"
 author:
   # Biographic information
   avatar           : "profile 2.png"
-  name             : "Kanak D"
+  name             : "Pooja G"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at the Division of Mathematical and Physical Sciences, Ahmedabad University"
-  location         : "Mumbai, Maharashtra"
+  bio              : "Third Year PhD student at the Division of Mathematical and Physical Sciences, Ahmedabad University"
+  location         : "Bhiwani, Haryana"
   #employer         : "Ahmedabad University"
   #uri              : # URL
-  email            : "kanak.d@ahduni.edu.in" 
+  email            : "pooja.k@ahduni.edu.in" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=PryoQPYAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "kanak-sudo"
+  github           : "poojagrewal"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : mcchickencrispy
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
